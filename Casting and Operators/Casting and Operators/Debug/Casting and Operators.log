@@ -1,0 +1,3 @@
+﻿  Casting and Operators.cpp
+C:\Users\ayber\source\repos\Casting and Operators\Casting and Operators\Casting and Operators.cpp(20,12): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Casting and Operators.vcxproj -> C:\Users\ayber\source\repos\Casting and Operators\Debug\Casting and Operators.exe
