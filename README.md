@@ -1,2 +1,1 @@
-# Cpp Basics
- C++ Basics
+I'm learning C++ and taking notes on everything important during this process; hopefully, it will be useful for your work as well. I am writing the explanations in Turkish; you can use translation to convert them.
